@@ -12,7 +12,7 @@ https://www.figma.com/design/fVIViyslukFuq57MpBYnXw/Wireframe---Planificador-de-
 
 ## Deploy
 
-
+https://tatianasuancha.github.io/planificador-tareas-web/
 
 ## Tecnologías
 
